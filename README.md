@@ -55,10 +55,10 @@ python nome_do_arquivo.py
 ## Capturas de Tela
 
 ![Captura de Tela 1](screenshot1.png)
-*Legenda: Descrição da captura de tela 1.*
+*Legenda: pagina inicial mostrando quem sou eu.*
 
 ![Captura de Tela 2](screenshot2.png)
-*Legenda: Descrição da captura de tela 2.*
+*Legenda: exemplo de pesquisa .*
 
 ## Estrutura do Código
 
